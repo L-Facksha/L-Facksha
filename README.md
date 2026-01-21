@@ -10,6 +10,109 @@
 
 </div>
 
+---
+
+## 🧠 About Me
+```bash
+┌──(root@github)-[~]
+└─$ cat profile.txt
+
+> ACCESS GRANTED
+> Alias : L-Facksha
+> Role  : Cybersecurity Engineer | AI | Cloud | DevOps | Web
+> Level : Intermediate
+> Mode  : Red Team ⚔️  | Blue Team 🛡️
+```
+
+<div align="center">
+
+⚡ **Breaking bugs, building systems, learning every day.**
+
+💀 Passionate about **offensive & defensive security**, **automation**, and **cutting-edge tech**.
+
+🎯 **Mission:** Build secure systems, break insecure ones, automate everything.
+
+</div>
+
+---
+
+## 🔧 Technologies & Tools
+
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,js,bash,html,css,linux,git,github,githubactions,docker,aws,terraform,ansible,nginx,kubernetes,jenkins,prometheus,grafana&theme=dark" />
+  </a>
+</div>
+
+<br>
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="33%">
+
+<h3>💻 Languages</h3>
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+
+</td>
+<td align="center" width="33%">
+
+<h3>🔒 Security</h3>
+
+<img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />
+<img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white" />
+<img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burp-suite&logoColor=white" />
+
+</td>
+<td align="center" width="33%">
+
+<h3>🤖 AI & ML</h3>
+
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+<img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+
+</td>
+</tr>
+<tr>
+<td align="center" width="33%">
+
+<h3>☁️ Cloud & DevOps</h3>
+
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+
+</td>
+<td align="center" width="33%">
+
+<h3>🛠️ CI/CD & Automation</h3>
+
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
+<img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
+<img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
+
+</td>
+<td align="center" width="33%">
+
+<h3>🌐 Web Technologies</h3>
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
 ## 🧬 SKILL MATRIX
 
 ```text
