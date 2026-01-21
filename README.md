@@ -113,29 +113,6 @@
 
 ---
 
-## 🧬 SKILL MATRIX
-
-```text
-[ CYBER SYSTEMS ONLINE ]
-
-LANGUAGES :: Python | JavaScript | Bash
-SECURITY  :: Pentesting | Threat Analysis | SOC | Hardening
-AI        :: Machine Learning | Automation
-CLOUD     :: AWS | Docker | CI/CD
-DEVOPS    :: Linux | GitHub Actions | Kubernetes
-WEB       :: HTML | CSS | JavaScript
-```
-
----
-
-## 🔧 TECHNOLOGIES
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,bash,linux,html,css,git,github,githubactions,docker,aws,terraform,ansible,nginx,kubernetes,jenkins,prometheus,grafana&theme=dark" />
-</div>
-
----
-
 ## 🔴 RED TEAM — OFFENSIVE SECURITY
 
 <div align="center">
