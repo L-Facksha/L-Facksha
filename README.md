@@ -109,18 +109,15 @@
 
 ## 🎯 What I Do
 
-<div align="center">
-
 <table>
 <tr>
 <td width="50%" valign="top">
 
-<div align="center">
+<h3 align="center">🔴 Red Team</h3>
 
-### 🔴 Red Team
-<img src="https://media.giphy.com/media/077i6AULCXc0FKTj9s/giphy.gif" width="200"/>
-
-</div>
+<p align="center">
+  <img src="https://media.giphy.com/media/077i6AULCXc0FKTj9s/giphy.gif" width="200"/>
+</p>
 ```python
 class RedTeam:
     def __init__(self):
@@ -149,12 +146,11 @@ class RedTeam:
 </td>
 <td width="50%" valign="top">
 
-<div align="center">
+<h3 align="center">🔵 Blue Team</h3>
 
-### 🔵 Blue Team
-<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="200"/>
-
-</div>
+<p align="center">
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="200"/>
+</p>
 ```python
 class BlueTeam:
     def __init__(self):
@@ -173,6 +169,16 @@ class BlueTeam:
     def execute(self):
         print("Detect → Analyze → Respond")
 ```
+
+**Tools I Use:**
+- Splunk | ELK Stack
+- Snort | Suricata
+- OSSEC | Wazuh
+- Firewall Rules & IDS/IPS
+
+</td>
+</tr>
+</table>
 
 **Tools I Use:**
 - Splunk | ELK Stack
