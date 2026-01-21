@@ -1,8 +1,10 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2200&pause=400&color=00B3FF&center=true&vCenter=true&width=760&lines=Cybersecurity+Engineer;AI+%7C+Cloud+%7C+DevOps+%7C+Web;Red+%26+Blue+Team+Mindset;Breaking+Bugs%2C+Building+Systems" />
+  <!-- Animated SVG Banner -->
 
-# 👋 Hi, I'm **L-Facksha**
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6C72F7&center=true&vCenter=true&width=600&lines=Hello%2C+I'm+L-Facksha+%F0%9F%91%8B;Cybersecurity+Engineer;AI+%7C+Cloud+%7C+DevOps+%7C+Web;Red+%26+Blue+Team+Mindset" alt="Typing SVG" />
+  </a>
 
 </div>
 
@@ -22,10 +24,12 @@
 
 ---
 
-## 🛠️ Tech Stack
+## 🔧 Technologies & Tools
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=python,js,bash,html,css,linux,docker,aws,githubactions&theme=dark" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,js,bash,html,css,linux,git,github,githubactions,docker,aws,terraform,ansible,nginx,kubernetes,jenkins,prometheus,grafana&theme=dark" />
+  </a>
 </div>
 
 ```text
@@ -34,51 +38,30 @@ LANGUAGES :: Python | JavaScript | Bash
 SECURITY  :: Pentesting | Threat Analysis | SOC | Hardening
 AI        :: Machine Learning | Automation
 CLOUD     :: AWS | Docker | CI/CD
-DEVOPS    :: Linux | GitHub Actions
+DEVOPS    :: Linux | GitHub Actions | Kubernetes
 WEB       :: HTML | CSS | JavaScript
 ```
 
 ---
 
-## 📌 Featured Projects
-
-### 🔴 Cybersecurity
-
-Offensive & defensive security tools focused on real-world threats
-
-### 🔵 AI / Automation
-
-AI-driven automation for detection, analysis, and response
-
-### ⚙️ Cloud / DevOps
-
-Secure cloud infrastructure with monitoring & CI/CD pipelines
-
----
-
-## 📊 GitHub Stats
+## 📈 Activity & Stats
 
 <div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=L-Facksha&theme=react-dark&hide_border=true&area=true" width="95%" />
+
 <img src="https://github-readme-stats.vercel.app/api?username=L-Facksha&show_icons=true&theme=radical" />
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=L-Facksha&layout=compact&theme=radical" />
+
 </div>
-
----
-
-## ⚡ Cyber Achievements
-
-```diff
-+ Red & Blue team security mindset
-+ Security-first development
-+ Automation-focused problem solving
-```
 
 ---
 
 ## 🐍 Contribution Snake
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/L-Facksha/L-Facksha/output/github-contribution-grid-snake-dark.svg" alt="contribution snake" />
+  <img src="https://raw.githubusercontent.com/L-Facksha/L-Facksha/output/github-contribution-grid-snake-dark.svg" alt="contribution snake" />
 </div>
 
 ---
@@ -101,20 +84,3 @@ Secure cloud infrastructure with monitoring & CI/CD pipelines
 
         L - F A C K S H A
 ```
-<div align="center">
-  
-  <!-- Animated SVG Banner -->
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6C72F7&center=true&vCenter=true&random=false&width=600&lines=Hello%2C+I'm+YAHYA+%F0%9F%91%8B;Programming+Enthusiast;Developer" alt="Typing SVG" /></a>
-
-## 🔧 Technologies & Tools
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,docker,c,cpp,js,postman,vscode,linux,github,githubactions,bash,terraform,ansible,prometheus,grafana,elasticsearch,nestjs,nextjs,nginx,prisma,jenkins,kubernetes" />
-  </a>
-</p>
-  
-  <!-- Dynamic Commit Stats -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tweakkin&theme=react-dark&hide_border=true&area=true" width="95%" alt="Contribution Graph"/>
-
-
