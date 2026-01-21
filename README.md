@@ -54,27 +54,27 @@
 
 <h3>💻 Languages</h3>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
 
 </td>
 <td align="center" width="33%">
 
 <h3>🔒 Security</h3>
 
-![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
-![Burp](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burp-suite&logoColor=white)
+<img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />
+<img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white" />
+<img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burp-suite&logoColor=white" />
 
 </td>
 <td align="center" width="33%">
 
 <h3>🤖 AI & ML</h3>
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Scikit](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+<img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
 
 </td>
 </tr>
@@ -83,27 +83,27 @@
 
 <h3>☁️ Cloud & DevOps</h3>
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
 
 </td>
 <td align="center" width="33%">
 
 <h3>🛠️ CI/CD & Automation</h3>
 
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
+<img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
+<img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
 
 </td>
 <td align="center" width="33%">
 
 <h3>🌐 Web Technologies</h3>
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
 
 </td>
 </tr>
@@ -229,22 +229,28 @@ class BlueTeam:
 
 <h3 align="center">🔐 Security Tool</h3>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=L-Facksha&repo=REPO_NAME&theme=radical&hide_border=true)](https://github.com/L-Facksha/REPO_NAME)
+<p align="center">
+  <a href="https://github.com/L-Facksha/REPO_NAME">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=L-Facksha&repo=REPO_NAME&theme=radical&hide_border=true" />
+  </a>
+</p>
 
-**Description:** Brief description of your security project
-
-**Tech:** Python • Cybersecurity • Automation
+<p align="center"><b>Description:</b> Brief description of your security project</p>
+<p align="center"><b>Tech:</b> Python • Cybersecurity • Automation</p>
 
 </td>
 <td width="50%">
 
 <h3 align="center">☁️ Cloud Project</h3>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=L-Facksha&repo=REPO_NAME&theme=radical&hide_border=true)](https://github.com/L-Facksha/REPO_NAME)
+<p align="center">
+  <a href="https://github.com/L-Facksha/REPO_NAME">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=L-Facksha&repo=REPO_NAME&theme=radical&hide_border=true" />
+  </a>
+</p>
 
-**Description:** Brief description of your cloud project
-
-**Tech:** AWS • Docker • Terraform
+<p align="center"><b>Description:</b> Brief description of your cloud project</p>
+<p align="center"><b>Tech:</b> AWS • Docker • Terraform</p>
 
 </td>
 </tr>
@@ -253,22 +259,28 @@ class BlueTeam:
 
 <h3 align="center">🤖 AI Project</h3>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=L-Facksha&repo=REPO_NAME&theme=radical&hide_border=true)](https://github.com/L-Facksha/REPO_NAME)
+<p align="center">
+  <a href="https://github.com/L-Facksha/REPO_NAME">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=L-Facksha&repo=REPO_NAME&theme=radical&hide_border=true" />
+  </a>
+</p>
 
-**Description:** Brief description of your AI project
-
-**Tech:** Python • Machine Learning • AI
+<p align="center"><b>Description:</b> Brief description of your AI project</p>
+<p align="center"><b>Tech:</b> Python • Machine Learning • AI</p>
 
 </td>
 <td width="50%">
 
 <h3 align="center">🌐 Web App</h3>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=L-Facksha&repo=REPO_NAME&theme=radical&hide_border=true)](https://github.com/L-Facksha/REPO_NAME)
+<p align="center">
+  <a href="https://github.com/L-Facksha/REPO_NAME">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=L-Facksha&repo=REPO_NAME&theme=radical&hide_border=true" />
+  </a>
+</p>
 
-**Description:** Brief description of your web project
-
-**Tech:** JavaScript • HTML • CSS
+<p align="center"><b>Description:</b> Brief description of your web project</p>
+<p align="center"><b>Tech:</b> JavaScript • HTML • CSS</p>
 
 </td>
 </tr>
@@ -312,7 +324,7 @@ class BlueTeam:
 
 <div align="center">
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 
 </div>
 
@@ -322,11 +334,21 @@ class BlueTeam:
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YOUR_TWITTER)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/YOUR_DISCORD)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio.com)
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://twitter.com/YOUR_TWITTER">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+</a>
+<a href="https://discord.gg/YOUR_DISCORD">
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+</a>
+<a href="mailto:your.email@example.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://your-portfolio.com">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
 
 </div>
 
