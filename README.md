@@ -52,7 +52,8 @@
 <tr>
 <td align="center" width="33%">
 
-### 💻 Languages
+<h3>💻 Languages</h3>
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
@@ -60,7 +61,8 @@
 </td>
 <td align="center" width="33%">
 
-### 🔒 Security
+<h3>🔒 Security</h3>
+
 ![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
 ![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
 ![Burp](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burp-suite&logoColor=white)
@@ -68,7 +70,8 @@
 </td>
 <td align="center" width="33%">
 
-### 🤖 AI & ML
+<h3>🤖 AI & ML</h3>
+
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Scikit](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
@@ -78,7 +81,8 @@
 <tr>
 <td align="center" width="33%">
 
-### ☁️ Cloud & DevOps
+<h3>☁️ Cloud & DevOps</h3>
+
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
@@ -86,7 +90,8 @@
 </td>
 <td align="center" width="33%">
 
-### 🛠️ CI/CD & Automation
+<h3>🛠️ CI/CD & Automation</h3>
+
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
@@ -94,7 +99,8 @@
 </td>
 <td align="center" width="33%">
 
-### 🌐 Web Technologies
+<h3>🌐 Web Technologies</h3>
+
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
@@ -180,18 +186,6 @@ class BlueTeam:
 </tr>
 </table>
 
-**Tools I Use:**
-- Splunk | ELK Stack
-- Snort | Suricata
-- OSSEC | Wazuh
-- Firewall Rules & IDS/IPS
-
-</td>
-</tr>
-</table>
-
-</div>
-
 ---
 
 ## 📊 GitHub Stats
@@ -232,54 +226,50 @@ class BlueTeam:
 <table>
 <tr>
 <td width="50%">
-<div align="center">
 
-### 🔐 Security Tool
+<h3 align="center">🔐 Security Tool</h3>
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=L-Facksha&repo=REPO_NAME&theme=radical&hide_border=true)](https://github.com/L-Facksha/REPO_NAME)
 
 **Description:** Brief description of your security project
 
 **Tech:** Python • Cybersecurity • Automation
 
-</div>
 </td>
 <td width="50%">
-<div align="center">
 
-### ☁️ Cloud Project
+<h3 align="center">☁️ Cloud Project</h3>
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=L-Facksha&repo=REPO_NAME&theme=radical&hide_border=true)](https://github.com/L-Facksha/REPO_NAME)
 
 **Description:** Brief description of your cloud project
 
 **Tech:** AWS • Docker • Terraform
 
-</div>
 </td>
 </tr>
 <tr>
 <td width="50%">
-<div align="center">
 
-### 🤖 AI Project
+<h3 align="center">🤖 AI Project</h3>
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=L-Facksha&repo=REPO_NAME&theme=radical&hide_border=true)](https://github.com/L-Facksha/REPO_NAME)
 
 **Description:** Brief description of your AI project
 
 **Tech:** Python • Machine Learning • AI
 
-</div>
 </td>
 <td width="50%">
-<div align="center">
 
-### 🌐 Web App
+<h3 align="center">🌐 Web App</h3>
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=L-Facksha&repo=REPO_NAME&theme=radical&hide_border=true)](https://github.com/L-Facksha/REPO_NAME)
 
 **Description:** Brief description of your web project
 
 **Tech:** JavaScript • HTML • CSS
 
-</div>
 </td>
 </tr>
 </table>
@@ -328,16 +318,6 @@ class BlueTeam:
 
 ---
 
-## 🎵 Spotify Playing
-
-<div align="center">
-
-[![Spotify](https://novatorem-kyzbk7wxl-bardiesel.vercel.app/api/spotify)](https://open.spotify.com/user/YOUR_SPOTIFY_ID)
-
-</div>
-
----
-
 ## 📫 Connect With Me
 
 <div align="center">
@@ -381,7 +361,7 @@ class BlueTeam:
 
 <img src="https://komarev.com/ghpvc/?username=L-Facksha&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" />
 
-### 💀 **"Hack The Planet"** 💀
+<h3>💀 "Hack The Planet" 💀</h3>
 
 </div>
 
