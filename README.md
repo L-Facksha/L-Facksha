@@ -1,37 +1,15 @@
-````md
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=L-FACKSHA&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=ffffff" />
+<!-- Animated Wave Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=L-FACKSHA&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=fff" />
 
+<!-- Animated Typing Header -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3500&pause=800&color=00B3FF&center=true&vCenter=true&width=800&lines=ACCESS+GRANTED...;Alias:+L-FACKSHA;Cybersecurity+Engineer;Red+Team+⚔️+|+Blue+Team+🛡️;AI+|+Cloud+|+DevOps+|+Web" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00B3FF&center=true&vCenter=true&width=760&lines=Hello%2C+I'm+L-FACKSHA+%F0%9F%91%8B;Cybersecurity+Engineer;Blue+Team+%26+Red+Team+Operator;AI+%7C+Cloud+%7C+DevOps+%7C+Web" alt="Typing SVG" />
 </a>
 
 </div>
 
----
-
-## 🧠 PROFILE
-
-```bash
-┌──(root@github)-[~]
-└─$ whoami
-
-Alias : L-FACKSHA
-Role  : Cybersecurity Engineer
-Focus : Security | AI | Cloud | DevOps | Web
-Level : Intermediate
-Mode  : Red Team ⚔️  &  Blue Team 🛡️
-Status: ONLINE
-````
-
-<div align="center">
-
-⚡ **Breaking systems. Securing reality. Automating everything.**
-
-</div>
-
----
 
 ## 🧬 SKILL MATRIX
 
