@@ -9,7 +9,23 @@
 </a>
 
 </div>
+## 🧠 About Me
+```bash
+┌──(root@github)-[~]
+└─$ cat profile.txt
 
+> ACCESS GRANTED
+> Alias : L-Facksha
+> Role  : Cybersecurity Engineer | AI | Cloud | DevOps | Web
+> Level : Intermediate
+> Mode  : Red Team ⚔️  | Blue Team 🛡️
+```
+
+<div align="center">
+
+⚡ **Breaking bugs, building systems, learning every day.**
+
+💀 Passionate about **offensive & defensive security**, **automation**, and **cutting-edge tech**.
 
 ## 🧬 SKILL MATRIX
 
