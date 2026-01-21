@@ -1,16 +1,8 @@
 <div align="center">
 
-<img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="100%" />
-
-<div align="center">
-
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2200&pause=400&color=00B3FF&center=true&vCenter=true&width=720&lines=Cybersecurity+Engineer;AI+%7C+Cloud+%7C+DevOps+%7C+Web;Red+%26+Blue+Team+Mindset;Breaking+Bugs%2C+Building+Systems" />
 
 # 👋 Hi, I'm **L-Facksha**
-
-</div>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2200&pause=400&color=FF003C&center=true&vCenter=true&width=700&lines=Cybersecurity+Engineer;AI+%7C+Cloud+%7C+DevOps+%7C+Web;Red+%26+Blue+Team+Mindset;Breaking+Bugs%2C+Not+Systems;Welcome+to+the+Cyberpunk+Zone" />
 
 </div>
 
@@ -42,12 +34,12 @@
 
 ```text
 [ CYBER SYSTEMS ONLINE ]
-LANGUAGES   :: Python | JavaScript | Bash
-SECURITY    :: Pentesting | Threat Analysis | SOC | Hardening
-AI          :: Machine Learning | Automation
-CLOUD       :: AWS | Docker | CI/CD
-DEVOPS     :: Linux | GitHub Actions
-WEB         :: HTML | CSS | JavaScript
+LANGUAGES :: Python | JavaScript | Bash
+SECURITY  :: Pentesting | Threat Analysis | SOC | Hardening
+AI        :: Machine Learning | Automation
+CLOUD     :: AWS | Docker | CI/CD
+DEVOPS    :: Linux | GitHub Actions
+WEB       :: HTML | CSS | JavaScript
 ```
 
 ```text
@@ -104,27 +96,23 @@ WEB         :: HTML | CSS | JavaScript
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/L-Facksha/L-Facksha/output/github-contribution-grid-snake-dark.svg" />
+<img src="https://raw.githubusercontent.com/L-Facksha/L-Facksha/output/github-contribution-grid-snake-dark.svg" alt="contribution snake animation" />
 
 </div>
 
-![Snake animation](https://raw.githubusercontent.com/L-Facksha/L-Facksha/output/github-contribution-grid-snake-dark.svg)
-
 ---
-
-<div align="center">
 
 ⚠️ **STATUS:** ONLINE
 🔴 **RED TEAM:** ATTACK | 🔵 **BLUE TEAM:** DEFEND
 ⚡ **CYBERPUNK MODE:** ENABLED
 
-</div>
-
 ```ascii
-██╗      ███████╗ █████╗  ██████╗██╗  ██╗███████╗██╗  ██╗ █████╗
-██║      ██╔════╝██╔══██╗██╔════╝██║ ██╔╝██╔════╝██║  ██║██╔══██╗
-██║█████╗█████╗  ███████║██║     █████╔╝ █████╗  ███████║███████║
-██║╚════╝██╔══╝  ██╔══██║██║     ██╔═██╗ ██╔══╝  ██╔══██║██╔══██║
-███████╗ ███████╗██║  ██║╚██████╗██║  ██╗███████╗██║  ██║██║  ██║
-╚══════╝ ╚══════╝╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝
+██╗      ███████╗███████╗ █████╗  ██████╗██╗  ██╗███████╗██╗  ██╗ █████╗
+██║      ██╔════╝██╔════╝██╔══██╗██╔════╝██║ ██╔╝██╔════╝██║  ██║██╔══██╗
+██║█████╗█████╗  █████╗  ███████║██║     █████╔╝ █████╗  ███████║███████║
+██║╚════╝██╔══╝  ██╔══╝  ██╔══██║██║     ██╔═██╗ ██╔══╝  ██╔══██║██╔══██║
+███████╗ ███████╗██║     ██║  ██║╚██████╗██║  ██╗███████╗██║  ██║██║  ██║
+╚══════╝ ╚══════╝╚═╝     ╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝
+
+        L - F A C K S H A
 ```
