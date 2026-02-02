@@ -40,7 +40,7 @@
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,js,bash,html,css,linux,git,github,githubactions,docker,aws,terraform,ansible,nginx,kubernetes,jenkins,prometheus,grafana&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=python,js,c,bash,html,css,linux,git,github,githubactions,docker,aws,terraform,ansible,nginx,kubernetes,jenkins,prometheus,grafana&theme=dark" />
   </a>
 </div>
 
